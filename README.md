@@ -1,4 +1,5 @@
-## Oii! Eu sou a Gi
+## Seja bem vindo!
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GiDevs&show_icons=true&theme=dracula"
