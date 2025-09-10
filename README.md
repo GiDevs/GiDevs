@@ -3,8 +3,6 @@
 <br>
 
  ###    Meus little commits ᶻ 𝗓 𐰁
-
-<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GiDevs&show_icons=true&theme=dracula"
@@ -12,7 +10,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GiDevs&show_icons=true"
   />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiDevs&show_icons=true" />
+  <img widht="200em" src="https://github-readme-stats.vercel.app/api?username=GiDevs&show_icons=true" />
 </picture>
 
 <div style="display: inline_block">
@@ -29,19 +27,24 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br>
   <br> <br>
-✦•······················•✦•·····················•✦✦•···················•✦•······················•✦✦•······················•✦•······················•✦✦•················•✦•······················•✦•······················•✦•·················•⠀⠀⠀⠀⠀
+✦•······················•✦•···················•✦✦•·················•✦•···················•✦✦•···················•✦•······················•✦✦•················•✦•······················•✦•····················•✦•···············•⠀⠀⠀⠀⠀
   <br>
    <br>
-<h3>๋࣭ ⭑⋆ֶָ֢ O que estou desenvolvendo:</h3>
+<h3>๋࣭ ⭑⋆ֶָ֢ Projetos atuais:</h3>
 <br>
 
 <div style="display: flex; align-items: center; gap: 10;">
-  <img align="right" src="https://i.ibb.co/mV5NpDCP/oioi-removebg-preview-1.png" alt="oioi" height="150">
+  <img align="right" src="https://i.ibb.co/mV5NpDCP/oioi-removebg-preview-1.png" alt="oioi" height="350">
   
   <div>
-    <b>๋ ࣭ ⭑ Aplicativo Selune</b><br>
-    <b>๋ ࣭ ⭑ Site para Artzans</b><br>
-    <b>๋ ࣭ ⭑ Código em Python para empresa</b><br>
+ 
+   <b>๋ ࣭ ⭑ Aplicativo Selune</b><br>
+    
+   
+   <b>๋ ࣭ ⭑ Site para Artzans</b><br>
+    
+   <b>๋ ࣭ ⭑ Código em Python para empresa</b><br>
+    
   </div>
 </div>
 
@@ -51,6 +54,12 @@
 <img align= "right" height="120" width="120" 
   src="https://piskel-imgstore-b.appspot.com/img/bc5bc0e3-00f5-11f0-b9e3-9f4675ea31d2.gif">
 </div> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
