@@ -34,7 +34,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 10;">
-  <img align="right" src="https://i.ibb.co/mV5NpDCP/oioi-removebg-preview-1.png" alt="oioi" height="350">
+  <img align="right" src="https://ibb.co/0yVXXxzp" alt="oioi" height="350">
   
   <div>
  
@@ -43,7 +43,6 @@
    
    <b>๋ ࣭ ⭑ Site para Artzans</b><br>
     
-   <b>๋ ࣭ ⭑ Código em Python para empresa</b><br>
     
   </div>
 </div>
