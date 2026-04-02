@@ -34,7 +34,7 @@
 <br>
 
 <div style="display: flex; align-items: center; gap: 10;">
-  <img align="right" src="https://ibb.co/0yVXXxzp" alt="oioi" height="350">
+  <img align="right" src="https://i.ibb.co/0yVXXxzp/2915771c6202130b98dadee9f4ed1e2d-1.jpg" alt="oioi" height="350">
   
   <div>
  
